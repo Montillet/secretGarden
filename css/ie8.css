@@ -1,0 +1,32 @@
+/*
+	
+	@n33co
+	Free for personal and commercial use under the CCA 3.0 license
+*/
+
+/*********************************************************************************/
+/* Wrappers                                                                      */
+/*********************************************************************************/
+
+	#header-wrapper
+	{
+	}
+
+		#header-wrapper:before
+		{
+			display: none;
+		}
+
+		#header-wrapper:after
+		{
+			display: none;
+		}
+
+	#footer-wrapper
+	{
+	}
+
+		#footer-wrapper:before
+		{
+			display: none;
+		}

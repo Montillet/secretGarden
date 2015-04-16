@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+  <loc>http://www.votre-secret-garden.fr/</loc>
+  <lastmod>2014-04-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1</priority>
+ </url>
+ <url>
+  <loc>http://www.votre-secret-garden.fr/inscription.php</loc>
+  <lastmod>2014-04-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.votre-secret-garden.fr/login.php</loc>
+  <lastmod>2014-04-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+ </url>
+ <url>
+  <loc>http://www.votre-secret-garden.fr/donate.php</loc>
+  <lastmod>2014-04-28</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.2</priority>
+ </url>
+</urlset>

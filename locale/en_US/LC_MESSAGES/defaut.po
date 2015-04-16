@@ -1,0 +1,1947 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Secret Garden\n"
+"POT-Creation-Date: 2014-05-18 10:49+0100\n"
+"PO-Revision-Date: 2014-05-18 11:13+0100\n"
+"Last-Translator: Baptiste Montillet <contact@votre-secret-garden.fr>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: T_\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\n"
+
+#: C:\wamp\www/alert.php:35
+msgid "problème connection Arduino"
+msgstr "Arduino connection problem"
+
+#: C:\wamp\www/alert.php:40
+msgid "à très chaud Mode Sécurité activé lampe(s) et pompe OFF !"
+msgstr ""
+"it very warm here so i lunch Security mode and i switch off the light and "
+"the water pump !"
+
+#: C:\wamp\www/alert.php:43
+msgid "est trempée dans l'eau c'est mauvais signe.."
+msgstr "i'm soak "
+
+#: C:\wamp\www/alert.php:46
+msgid "a soif"
+msgstr "is thirst"
+
+#: C:\wamp\www/alert.php:82
+msgid "Ta Plante :"
+msgstr "your plant"
+
+#: C:\wamp\www/budget.php:105 C:\wamp\www/budget.php:344
+msgid "Budget"
+msgstr "Budget"
+
+#: C:\wamp\www/budget.php:179
+msgid "Caractère non valide, veuillez entrer un nombre"
+msgstr "character not valid please enter a number"
+
+#: C:\wamp\www/budget.php:224
+msgid "Veuillez remplir le nombre de jours d'éclairage que vous prévoyez"
+msgstr "please fill the number of days of lighting you forecast. "
+
+#: C:\wamp\www/budget.php:231
+msgid ""
+"Ne vous arrêtez pas en si bon chemin, veuillez remplir le nombre de jours de "
+"floraison que vous prévoyez "
+msgstr ""
+"Don't stop here! Please, complete the box regarding the blossoming duration "
+"that you're expecting."
+
+#: C:\wamp\www/budget.php:235
+msgid ""
+"Ne vous arrêtez pas en si bon chemin, veuillez remplir le nombre de jours de "
+"croissance que vous prévoyez "
+msgstr ""
+"Do not stop here! Please, complete the box regarding the growing duration "
+"that you're expecting"
+
+#: C:\wamp\www/budget.php:242
+msgid "Il manque des informations essentielles."
+msgstr "it lack essential information"
+
+#: C:\wamp\www/budget.php:267 C:\wamp\www/faq.php:170
+#: C:\wamp\www/moniteur.php:523 C:\wamp\www/reglage.php:333
+#: C:\wamp\www/statistique.php:370 C:\wamp\www/votrecompte.php:359
+msgid " Accueil"
+msgstr " Home"
+
+#: C:\wamp\www/budget.php:268 C:\wamp\www/faq.php:171
+#: C:\wamp\www/moniteur.php:524 C:\wamp\www/reglage.php:334
+#: C:\wamp\www/statistique.php:371 C:\wamp\www/votrecompte.php:360
+msgid " Mon compte"
+msgstr " My account"
+
+#: C:\wamp\www/budget.php:269 C:\wamp\www/faq.php:172
+#: C:\wamp\www/moniteur.php:525 C:\wamp\www/reglage.php:335
+#: C:\wamp\www/statistique.php:372 C:\wamp\www/votrecompte.php:361
+msgid " Moniteur"
+msgstr " Dashboard"
+
+#: C:\wamp\www/budget.php:270 C:\wamp\www/faq.php:173
+#: C:\wamp\www/moniteur.php:526 C:\wamp\www/reglage.php:336
+#: C:\wamp\www/statistique.php:373 C:\wamp\www/votrecompte.php:362
+msgid " Réglage"
+msgstr " Settings"
+
+#: C:\wamp\www/budget.php:271 C:\wamp\www/faq.php:174
+#: C:\wamp\www/moniteur.php:527 C:\wamp\www/reglage.php:337
+#: C:\wamp\www/statistique.php:374 C:\wamp\www/votrecompte.php:363
+msgid " Statistiques"
+msgstr " Statistics"
+
+#: C:\wamp\www/budget.php:272 C:\wamp\www/faq.php:175
+#: C:\wamp\www/moniteur.php:528 C:\wamp\www/reglage.php:338
+#: C:\wamp\www/statistique.php:375 C:\wamp\www/votrecompte.php:364
+msgid " Budget"
+msgstr " Budget"
+
+#: C:\wamp\www/budget.php:273 C:\wamp\www/faq.php:176
+#: C:\wamp\www/moniteur.php:529 C:\wamp\www/reglage.php:339
+#: C:\wamp\www/statistique.php:376 C:\wamp\www/votrecompte.php:365
+msgid " FAQ"
+msgstr "FAQ"
+
+#: C:\wamp\www/budget.php:274 C:\wamp\www/faq.php:177
+#: C:\wamp\www/moniteur.php:530 C:\wamp\www/reglage.php:340
+#: C:\wamp\www/statistique.php:377 C:\wamp\www/votrecompte.php:366
+msgid " Déconnexion"
+msgstr " Log out"
+
+#: C:\wamp\www/budget.php:300
+msgid "Votre budget"
+msgstr "Your budget"
+
+#: C:\wamp\www/budget.php:301
+msgid "Estimer/Calculer"
+msgstr "Estimate/Calculate"
+
+#: C:\wamp\www/budget.php:306
+msgid "Votre installation"
+msgstr "Your instalation"
+
+#: C:\wamp\www/budget.php:309
+msgid "Type de Lampe :"
+msgstr "Type of light bulb :"
+
+#: C:\wamp\www/budget.php:317
+msgid "Puissance de votre lampe :"
+msgstr "power of your light bulb :"
+
+#: C:\wamp\www/budget.php:318
+msgid ""
+"Où trouver cette information : vous trouverez cette information sur votre "
+"dernière facture EDF."
+msgstr ""
+"Where to get this information:<br /> You will get it on your last "
+"electricity bill."
+
+#: C:\wamp\www/budget.php:318
+msgid "Prix du kWh"
+msgstr "price of kWh"
+
+#: C:\wamp\www/budget.php:319
+msgid "Prévision du nombre de jours de croissance : "
+msgstr "forecast of the number of days of growth :"
+
+#: C:\wamp\www/budget.php:319 C:\wamp\www/budget.php:320
+#: C:\wamp\www/budget.php:322 C:\wamp\www/budget.php:324
+msgid "Jours"
+msgstr "Days"
+
+#: C:\wamp\www/budget.php:320
+msgid "Prévision du nombre de jours de floraison : "
+msgstr "forecast of the number of days of blossoming :"
+
+#: C:\wamp\www/budget.php:321
+msgid "ou"
+msgstr "or"
+
+#: C:\wamp\www/budget.php:322
+msgid "Prévision du nombre de jours totaux"
+msgstr "forecast of the total number of days :"
+
+#: C:\wamp\www/budget.php:323
+msgid "votre plantation vous coûtera en électricité environ :"
+msgstr "the electrical cost of your plants will be about :"
+
+#: C:\wamp\www/budget.php:324
+msgid "sur une durée de "
+msgstr "over a period of "
+
+#: C:\wamp\www/budget.php:333
+msgid "Lancer une estimation"
+msgstr "estimate"
+
+#: C:\wamp\www/budget.php:346
+msgid ""
+"Sur cette page, vous pouvez faire une simulation de votre consommation "
+"électrique pour estimer combien cela vous coûtera en euro. Si vous ne "
+"connaissez pas certaines informations requises, il est possible que vous les "
+"trouviez dans la FAQ"
+msgstr ""
+"On this page you can simulate your electricity consumption in order to "
+"estimate how much it will cost (in euros). If you miss piece of information, "
+"you may find them in FAQ."
+
+#: C:\wamp\www/budget.php:347 C:\wamp\www/faq.php:105 C:\wamp\www/faq.php:258
+#: C:\wamp\www/moniteur.php:634 C:\wamp\www/reglage.php:512
+#: C:\wamp\www/statistique.php:1349
+msgid "FAQ"
+msgstr "FAQ"
+
+#: C:\wamp\www/budget.php:351 C:\wamp\www/donate.php:88
+#: C:\wamp\www/faq.php:264 C:\wamp\www/moniteur.php:651
+#: C:\wamp\www/reglage.php:516 C:\wamp\www/statistique.php:1371
+#: C:\wamp\www/votrecompte.php:431
+msgid "Contribuer"
+msgstr "Contribute"
+
+#: C:\wamp\www/budget.php:353 C:\wamp\www/faq.php:266
+#: C:\wamp\www/moniteur.php:653 C:\wamp\www/reglage.php:518
+#: C:\wamp\www/statistique.php:1373 C:\wamp\www/votrecompte.php:433
+msgid ""
+"Vous voulez plus de fonctionnalités sur Secret Garden ou tout simplement "
+"vous voulez nous soutenir et permettre à Secret Garden de rester un service "
+"gratuit."
+msgstr ""
+"Want more functionality on Secret Garden or you simply want to support us "
+"and allow Secret Garden to remain a free service."
+
+#: C:\wamp\www/budget.php:354 C:\wamp\www/faq.php:267
+#: C:\wamp\www/index.php:224 C:\wamp\www/moniteur.php:654
+#: C:\wamp\www/reglage.php:519 C:\wamp\www/statistique.php:1374
+#: C:\wamp\www/votrecompte.php:434
+msgid "Soutenez-nous"
+msgstr "support us"
+
+#: C:\wamp\www/budget.php:377 C:\wamp\www/cancel.php:180
+#: C:\wamp\www/donate.php:223 C:\wamp\www/erreur.php:179
+#: C:\wamp\www/faq.php:290 C:\wamp\www/index.php:449
+#: C:\wamp\www/inscription.php:398 C:\wamp\www/mention_legal.php:240
+#: C:\wamp\www/merci.php:177 C:\wamp\www/moniteur.php:677
+#: C:\wamp\www/oublier.php:295 C:\wamp\www/reglage.php:542
+#: C:\wamp\www/statistique.php:1397 C:\wamp\www/verification.php:216
+#: C:\wamp\www/votrecompte.php:457
+msgid "Quoi de neuf ?"
+msgstr "What's new ?"
+
+#: C:\wamp\www/budget.php:382 C:\wamp\www/cancel.php:185
+#: C:\wamp\www/donate.php:228 C:\wamp\www/erreur.php:184
+#: C:\wamp\www/faq.php:295 C:\wamp\www/index.php:454
+#: C:\wamp\www/inscription.php:403 C:\wamp\www/mention_legal.php:245
+#: C:\wamp\www/merci.php:182 C:\wamp\www/moniteur.php:682
+#: C:\wamp\www/oublier.php:300 C:\wamp\www/reglage.php:547
+#: C:\wamp\www/statistique.php:1402 C:\wamp\www/verification.php:221
+#: C:\wamp\www/votrecompte.php:462
+msgid "Secret Garden fait peau neuve !"
+msgstr "Secret Garden has just been redesigned to improve the way it looks !"
+
+#: C:\wamp\www/budget.php:383 C:\wamp\www/cancel.php:186
+#: C:\wamp\www/donate.php:229 C:\wamp\www/erreur.php:185
+#: C:\wamp\www/faq.php:296 C:\wamp\www/inscription.php:404
+#: C:\wamp\www/mention_legal.php:246 C:\wamp\www/merci.php:183
+#: C:\wamp\www/moniteur.php:683 C:\wamp\www/oublier.php:301
+#: C:\wamp\www/reglage.php:548 C:\wamp\www/statistique.php:1403
+#: C:\wamp\www/verification.php:222 C:\wamp\www/votrecompte.php:463
+msgid ""
+"Vous avez sûrement remarqué que Secret Garden a évolué. Il est maintenant "
+"compatible avec touts les smartphones et les tablettes. "
+msgstr ""
+"You surely noticed that Secret garden has evolved. It is now compatible with "
+"all smartphones and touchpads"
+
+#: C:\wamp\www/budget.php:387 C:\wamp\www/cancel.php:190
+#: C:\wamp\www/donate.php:233 C:\wamp\www/erreur.php:189
+#: C:\wamp\www/faq.php:300 C:\wamp\www/index.php:459
+#: C:\wamp\www/inscription.php:408 C:\wamp\www/mention_legal.php:250
+#: C:\wamp\www/merci.php:187 C:\wamp\www/moniteur.php:687
+#: C:\wamp\www/oublier.php:305 C:\wamp\www/reglage.php:552
+#: C:\wamp\www/statistique.php:1407 C:\wamp\www/verification.php:226
+#: C:\wamp\www/votrecompte.php:467
+msgid "Lancement de Secret Garden"
+msgstr "Launching of Secret Garden"
+
+#: C:\wamp\www/budget.php:388 C:\wamp\www/cancel.php:191
+#: C:\wamp\www/donate.php:234 C:\wamp\www/erreur.php:190
+#: C:\wamp\www/faq.php:301 C:\wamp\www/index.php:460
+#: C:\wamp\www/inscription.php:409 C:\wamp\www/mention_legal.php:251
+#: C:\wamp\www/merci.php:188 C:\wamp\www/moniteur.php:688
+#: C:\wamp\www/oublier.php:306 C:\wamp\www/reglage.php:553
+#: C:\wamp\www/statistique.php:1408 C:\wamp\www/verification.php:227
+#: C:\wamp\www/votrecompte.php:468
+msgid ""
+"Nous sommes très fièrs aujourd'hui de vous présenter ce nouveau site qui est "
+"à mi-chemin entre un Data-loggeur et un jardinier ;-)."
+msgstr ""
+"We are very proud today to show you this new website which is midway between "
+"a data logger and a gardener ;-)."
+
+#: C:\wamp\www/budget.php:401 C:\wamp\www/cancel.php:204
+#: C:\wamp\www/donate.php:247 C:\wamp\www/erreur.php:203
+#: C:\wamp\www/faq.php:314 C:\wamp\www/index.php:473
+#: C:\wamp\www/inscription.php:422 C:\wamp\www/mention_legal.php:264
+#: C:\wamp\www/merci.php:201 C:\wamp\www/moniteur.php:701
+#: C:\wamp\www/oublier.php:319 C:\wamp\www/reglage.php:566
+#: C:\wamp\www/statistique.php:1421 C:\wamp\www/verification.php:240
+#: C:\wamp\www/votrecompte.php:481
+msgid "A propos"
+msgstr "About"
+
+#: C:\wamp\www/budget.php:405 C:\wamp\www/cancel.php:208
+#: C:\wamp\www/donate.php:251 C:\wamp\www/erreur.php:207
+#: C:\wamp\www/faq.php:318 C:\wamp\www/inscription.php:426
+#: C:\wamp\www/mention_legal.php:268 C:\wamp\www/merci.php:205
+#: C:\wamp\www/moniteur.php:705 C:\wamp\www/oublier.php:323
+#: C:\wamp\www/reglage.php:570 C:\wamp\www/statistique.php:1425
+#: C:\wamp\www/verification.php:244 C:\wamp\www/votrecompte.php:485
+msgid ""
+"Secret Garden et né du cerveau d'une personne qui voulait allier ses deux "
+"passions : les nouvelles technologies et la culture des plantes. Secret "
+"Garden est donc le fruit du mélange des techniques de culture des plantes "
+"(gestion de l'éclairage, de l'arrosage etc...) et de la connaissance en "
+"programmation Web et C/C++."
+msgstr ""
+"Secret Garden arose from the brain of someone who wanted to combine his two "
+"passions, the new technologies and gardening. Secret Garden is so the result "
+"of mixing of the technics of plant growing  (the management of light and "
+"watering etc...) and knowledge of the web programming and C/C++"
+
+#: C:\wamp\www/budget.php:415 C:\wamp\www/cancel.php:218
+#: C:\wamp\www/donate.php:261 C:\wamp\www/erreur.php:217
+#: C:\wamp\www/faq.php:328 C:\wamp\www/index.php:485
+#: C:\wamp\www/inscription.php:436 C:\wamp\www/mention_legal.php:278
+#: C:\wamp\www/merci.php:215 C:\wamp\www/moniteur.php:715
+#: C:\wamp\www/oublier.php:333 C:\wamp\www/reglage.php:580
+#: C:\wamp\www/statistique.php:1435 C:\wamp\www/verification.php:254
+#: C:\wamp\www/votrecompte.php:495
+msgid "Suivez-nous"
+msgstr "follow us"
+
+#: C:\wamp\www/budget.php:423 C:\wamp\www/cancel.php:226
+#: C:\wamp\www/donate.php:269 C:\wamp\www/erreur.php:225
+#: C:\wamp\www/faq.php:336 C:\wamp\www/index.php:493
+#: C:\wamp\www/mention_legal.php:286 C:\wamp\www/merci.php:223
+#: C:\wamp\www/moniteur.php:723 C:\wamp\www/oublier.php:341
+#: C:\wamp\www/reglage.php:588 C:\wamp\www/statistique.php:1443
+#: C:\wamp\www/verification.php:262 C:\wamp\www/votrecompte.php:503
+msgid "Adresse"
+msgstr "Address"
+
+#: C:\wamp\www/budget.php:431 C:\wamp\www/cancel.php:234
+#: C:\wamp\www/donate.php:277 C:\wamp\www/erreur.php:233
+#: C:\wamp\www/faq.php:344 C:\wamp\www/index.php:501
+#: C:\wamp\www/mention_legal.php:294 C:\wamp\www/merci.php:231
+#: C:\wamp\www/moniteur.php:731 C:\wamp\www/oublier.php:349
+#: C:\wamp\www/reglage.php:596 C:\wamp\www/statistique.php:1451
+#: C:\wamp\www/verification.php:270 C:\wamp\www/votrecompte.php:511
+msgid "Mail"
+msgstr "Mail"
+
+#: C:\wamp\www/budget.php:446 C:\wamp\www/cancel.php:249
+#: C:\wamp\www/donate.php:292 C:\wamp\www/erreur.php:248
+#: C:\wamp\www/faq.php:359 C:\wamp\www/mention_legal.php:309
+#: C:\wamp\www/merci.php:246 C:\wamp\www/moniteur.php:746
+#: C:\wamp\www/oublier.php:364 C:\wamp\www/reglage.php:611
+#: C:\wamp\www/statistique.php:1466 C:\wamp\www/verification.php:285
+#: C:\wamp\www/votrecompte.php:526
+msgid "Conception"
+msgstr "Conception"
+
+#: C:\wamp\www/budget.php:447 C:\wamp\www/cancel.php:250
+#: C:\wamp\www/donate.php:293 C:\wamp\www/erreur.php:249
+#: C:\wamp\www/faq.php:360 C:\wamp\www/index.php:517
+#: C:\wamp\www/inscription.php:468 C:\wamp\www/mention_legal.php:88
+#: C:\wamp\www/mention_legal.php:310 C:\wamp\www/merci.php:247
+#: C:\wamp\www/moniteur.php:747 C:\wamp\www/oublier.php:365
+#: C:\wamp\www/reglage.php:612 C:\wamp\www/statistique.php:1467
+#: C:\wamp\www/verification.php:286 C:\wamp\www/votrecompte.php:527
+msgid "Mentions Légales"
+msgstr "Privacy Policy"
+
+#: C:\wamp\www/budget.php:448 C:\wamp\www/cancel.php:251
+#: C:\wamp\www/donate.php:294 C:\wamp\www/erreur.php:250
+#: C:\wamp\www/faq.php:361 C:\wamp\www/mention_legal.php:311
+#: C:\wamp\www/merci.php:248 C:\wamp\www/moniteur.php:748
+#: C:\wamp\www/oublier.php:366 C:\wamp\www/reglage.php:613
+#: C:\wamp\www/statistique.php:1468 C:\wamp\www/verification.php:287
+#: C:\wamp\www/votrecompte.php:528
+msgid "Design"
+msgstr "Design"
+
+#: C:\wamp\www/cancel.php:88
+msgid "Annuler"
+msgstr "Cancel"
+
+#: C:\wamp\www/cancel.php:126 C:\wamp\www/delete.php:119
+#: C:\wamp\www/donate.php:126 C:\wamp\www/erreur.php:126
+#: C:\wamp\www/index.php:216 C:\wamp\www/inscription.php:327
+#: C:\wamp\www/mention_legal.php:127 C:\wamp\www/merci.php:126
+#: C:\wamp\www/oublier.php:237 C:\wamp\www/verification.php:161
+msgid "Accueil"
+msgstr "Home"
+
+#: C:\wamp\www/cancel.php:152
+msgid "Don annuler"
+msgstr "Donation cancel"
+
+#: C:\wamp\www/cancel.php:154
+msgid "Secret Garden à bien pris en compte l'annulation de votre votre dons."
+msgstr "Secret Garden to taken into account canceling your donations."
+
+#: C:\wamp\www/cancel.php:155
+msgid ""
+"Ce n'est pas grave vous pouvez quand même continuer à utilisez Secret Garden."
+msgstr "it does not matter you can still continue to use Secret Garden."
+
+#: C:\wamp\www/cancel.php:156
+msgid "vous allez etre rediriger vers la page d'acceuil."
+msgstr "you will be redirected on the home page."
+
+#: C:\wamp\www/cancel.php:157 C:\wamp\www/erreur.php:156
+#: C:\wamp\www/verification.php:193
+msgid "Si ce n'est pas le cas au bout de 30s cliquez ici."
+msgstr "if this page isn't refresh in about 30s click here."
+
+#: C:\wamp\www/delete.php:118
+msgid "RAZ ok"
+msgstr "Reset ok"
+
+#: C:\wamp\www/donate.php:152
+msgid "Comment aider Secret Garden ?"
+msgstr "How to help Secret Garden ?"
+
+#: C:\wamp\www/donate.php:153
+msgid "Conseil, aide au développement ou aide financière."
+msgstr "Advice, web development helping or financial aid."
+
+#: C:\wamp\www/donate.php:155
+msgid "Vous avez des conseils ou remarques à propos de Secret Garden ?  "
+msgstr "Have you any advice or comments about Secret Garden ?"
+
+#: C:\wamp\www/donate.php:157
+msgid ""
+"Vous aimez bien Secret Garden et vous avez des suggestions pour son "
+"développement faites nous en part sur le forum."
+msgstr ""
+"You like Secret Garden and you have some suggestion for its development post "
+"it on the forum."
+
+#: C:\wamp\www/donate.php:162
+msgid "Vous voulez contribuer à l'évolution de Secret Garden "
+msgstr "How to contribute to the evolution of Secret Garden"
+
+#: C:\wamp\www/donate.php:164
+msgid ""
+"Vous voulez traduire Secret Garden dans votre langue ou vous voulez "
+"améliorer la traduction de certaines phrases ? "
+msgstr ""
+"you want to translate Secret Garden in your language ,you want to improve "
+"the translation of some phrases ?"
+
+#: C:\wamp\www/donate.php:165
+msgid "alors voici les étapes à suivre : "
+msgstr "here is the step to follow :"
+
+#: C:\wamp\www/donate.php:166
+msgid "1- il vous faudra télécharger/installer Poedit. "
+msgstr "1- you should download/install Poedit."
+
+#: C:\wamp\www/donate.php:170
+msgid "2- télécharger le fichier de traduction. "
+msgstr "2- download the translate file."
+
+#: C:\wamp\www/donate.php:172
+msgid "fichier de traduction pour de nouvelles langues"
+msgstr "translation file for new languages"
+
+#: C:\wamp\www/donate.php:173
+msgid "fichier de traduction pour modifier la traduction anglaise"
+msgstr "translation files for modifying the english translation"
+
+#: C:\wamp\www/donate.php:175
+msgid "3- le traduire ^^ ."
+msgstr "3- translate it ^^ ."
+
+#: C:\wamp\www/donate.php:176
+msgid ""
+"4- une fois la traduction effectuée envoyer le fichier de traduction par "
+"mail a l'adresse-ci dessous."
+msgstr ""
+"4- once you finish to translate it you just have to send it to the email "
+"address below"
+
+#: C:\wamp\www/donate.php:181
+msgid "Vous voulez nous aider sur le développement web ou C/C++ (Arduino) ? "
+msgstr "Want to help us on the web development or C / C + + (Arduino) ?"
+
+#: C:\wamp\www/donate.php:182
+msgid " envoyez nous vos évolutions ."
+msgstr "send us your add-on."
+
+#: C:\wamp\www/donate.php:187
+msgid " Faire un don ? "
+msgstr "Donate ?"
+
+#: C:\wamp\www/donate.php:188
+msgid " Que ferons-nous de cet argent ? "
+msgstr "What that Secret Garden will make with this money?"
+
+#: C:\wamp\www/donate.php:189
+msgid ""
+" vos dons serviront à maintenir la qualité de fonctionement du serveur et "
+"des services disponibles sur Secret Garden."
+msgstr ""
+"your donation will help us to maintain the quality of functioning of the "
+"server and the available services on Secret Garden."
+
+#: C:\wamp\www/donate.php:199
+msgid "Faire un don avec Bitcoins utilisez cette adresse : "
+msgstr "Make a donation with Bitcoins use this address : "
+
+#: C:\wamp\www/erreur.php:88
+msgid "Erreur"
+msgstr "Error"
+
+#: C:\wamp\www/erreur.php:152
+msgid "Erreur dans le paiement"
+msgstr "Error in the payment"
+
+#: C:\wamp\www/erreur.php:154
+msgid "Secret Garden a détecter une erreur dans votre paiement"
+msgstr "Secret Garden has detected a error in your payment"
+
+#: C:\wamp\www/erreur.php:155
+msgid "Vous allez être redirigé vers la page d'accueil."
+msgstr "you will be redirected on the home page."
+
+#: C:\wamp\www/faq.php:204
+msgid "Foire aux questions"
+msgstr "Frequently asked questions"
+
+#: C:\wamp\www/faq.php:205
+msgid "Vous avez une Question ? il y a sûrement la réponse ici."
+msgstr "Do you have a Question ? i'm pretty sure there is your answer here."
+
+#: C:\wamp\www/faq.php:209
+msgid "Sommaire d'aide."
+msgstr "Summary Help."
+
+#: C:\wamp\www/faq.php:212
+msgid "Qu'est-ce que la clé Prowl, à quoi sert-elle et où puis-je la trouver ?"
+msgstr "What is the Prowl key, what is it and where can I find it?"
+
+#: C:\wamp\www/faq.php:213
+msgid ""
+"La clé prowl est la clé qui permet de lier votre Smartphone à Secret Garden "
+"grâce à l'application prowl. Comment l'obtenir : tout d'abord vous aurez "
+"besoin de télécharger l'application (prowl: growl Client) sur votre "
+"Smartphone. Ensuite vous devrez vous enregistrer sur <a href='http://www."
+"prowlapp.com'>prowlapp.com</a>. Une fois enregistré vous devrez vous rendre "
+"sur la page <a href='http://www.prowlapp.com/api_settings.php'>API keys</a> "
+"pour finalement générer votre clé."
+msgstr ""
+"The prowl key is the key that enables to link your smartphone to SG by means "
+"of the prowl app. How to get it: first, you'll need to download the app "
+"(prowl: growl Client) on your smartphone, then you have to register on <a "
+"href='http://www.prowlapp.com'>prowlapp.com</a>. Once registered, you'll "
+"have to go to the page<a href='http://www.prowlapp.com/api_settings.php'>API "
+"keys</a> to finally generate your own prowl key.   "
+
+#: C:\wamp\www/faq.php:216
+msgid ""
+"Que se passera-t-il si la carte de pilotage n'est plus connectée à internet ?"
+msgstr "what happens if your control card loose the internet connection ?"
+
+#: C:\wamp\www/faq.php:217
+msgid ""
+"Secret Garden continuera à fonctionner normalement et dès que la carte sera "
+"reconnectée à internet, elle recommencera à envoyer les données."
+msgstr ""
+"SG will keep on working normally and as soon as the control card will be "
+"connected to the internet again, it will start again to send data"
+
+#: C:\wamp\www/faq.php:220
+msgid "Certaines jauges sont à '0', pourquoi ?"
+msgstr "Some gauges are stuck to '0', why ?"
+
+#: C:\wamp\www/faq.php:221
+msgid ""
+"Certaines fonctionnalités de Secret Garden sont optionelles donc il est "
+"normal quelles restent à 0 si vous n'avez pas le capteur qui active cette "
+"fonction."
+msgstr ""
+"Some functionalities of SG are optional. Therefore, it makes sense that they "
+"remains equal to 0 if you haven't got the sensor that activates this function"
+
+#: C:\wamp\www/faq.php:224
+msgid "Comment savoir de quel capteur je dispose ?"
+msgstr "How to know which sensor I'm equipped with? "
+
+#: C:\wamp\www/faq.php:225
+msgid ""
+"Si vous avez suivi le tutoriel sur le blog <a href='http://blog.votre-secret-"
+"garden.fr/fr/article/diy-tutoriel-dinstallation-et-de-configuration-de-la-"
+"carte-de-pilotage'>Tutoriel d'installation et de configuration de la carte "
+"de pilotage</a> vous devez normalement avoir un capteur de température/"
+"humidité ainsi qu'un capteur de moisture (humidité de la plante). Il n'est "
+"pas interdit de rajouter une sonde pH ou un captteur de luminosité pour plus "
+"de fonctionnalités."
+msgstr ""
+"If you are already familiar with the tutorial on the blog <a href='http://"
+"blog.votre-secret-garden.fr/en/article/diy-setting-and-configuration-"
+"tutorial-secret-gardens-remote-control'>Setting and configuration tutorial "
+"of the Secret Garden's remote control</a>, you must have a temperature/"
+"humidity sensor and a moisture (plant humidity) sensor. You can also add a "
+"pH probe or a light sensor to enrich your system with more functionalities."
+
+#: C:\wamp\www/faq.php:228
+msgid "Comment être sûr que la carte envoie bien les données à Secret Garden"
+msgstr ""
+"How to be sure that the control card is sending properly data to Secret "
+"Garden?"
+
+#: C:\wamp\www/faq.php:229
+msgid ""
+"Il y a plusieurs façons de le savoir, la plus simple et d'aller sur la page "
+"Moniteur et de regarder la ligne 'dernière synchronisation', ou tout "
+"simplement regarder dans 'problème'. Si l'affichage montre 'carte arrêtée' "
+"cela signifie que votre carte n'a pas envoyé de donnée depuis plus d'une "
+"heure. La deuxième technique est plus compliquée mais donne plus de "
+"renseignements, elle consiste à déconnecter la carte et à la reconnecter à "
+"votre PC/Mac. Après avoir lancé le logiciel Arduino vous pouvez regarder "
+"alors les informations dans le moniteur série."
+msgstr ""
+"There are number of different ways of knowing it. The easiest is to go on "
+"the page \"Monitor\" and to look at the line \"last synchronization\" or "
+"simply, have a look at the line \"problems\". If the following message "
+"appears \"inactive control card\" it means that your card has not sending "
+"any data for more than one hour. The other possibility is more complex but "
+"gives you more information; it consists in disconnecting the control card "
+"and in reconnecting it to your PC/Mac, then in executing the arduino "
+"software and finally look at serial monitor to get more details about the "
+"problems"
+
+#: C:\wamp\www/faq.php:232
+msgid "À quoi sert la sécurité et que représente-t-elle ?"
+msgstr "what is the use of the security and that it represents?"
+
+#: C:\wamp\www/faq.php:233
+msgid ""
+"Il existe 3 niveaux de sécurité, le premier 'Recommandé' sert à déconnecter "
+"tous les appareil électrique de l'installation en cas de température "
+"anormale (supérieure à 40°C). la carte vous préviendra par notification sur "
+"votre smartphone que votre jardin a été mi hors circuit. Il se réenclenchera "
+"dès que la température sera revenue à un niveau acceptable. Si le problème "
+"persiste cela peut signifier que votre installation est défectuese. Le "
+"niveau 'Maximal' prend en compte toutes les fonctions du niveau "
+"'Recommander' mais en plus il gère les arrosages d'urgence. Si par exemple "
+"vous avez prevu des cycles d'arrosage trop courts, il se permettra de lancer "
+"un cycle d'arrosage supplémentaire pour pallier à ce manque d'eau. Il vous "
+"previendra qu'il à dù arroser les plantes en dehors des cycles prévus par "
+"notification sur votre smartphone. Enfin dans le mode 'désactivé' aucun "
+"niveau de sécurité n'est pris en compte. "
+msgstr ""
+"There are two levels of security, the first level 'recommended' is used to "
+"disconnect all electrical equipment in case of abnormal temperature (high "
+"heat). Thereafter, the control card will inform you, by notification on your "
+"smartphone, that your garden has been disconnected. It will be reset as soon "
+"as temperature returns to acceptable levels. The level 'High' takes into "
+"account all the features of level 'recommended' but it also manages "
+"emergency watering. For example, if you have planned too short watering "
+"cycles, it will launch an additional watering cycle to compensate for the "
+"lack of water. It will warn you by notification on your smartphone when he "
+"waters plants with an extra cycle."
+
+#: C:\wamp\www/faq.php:236
+msgid "Je ne comprends pas comment configurer les cycles lumineux"
+msgstr "i don't understand how to set light cycles "
+
+#: C:\wamp\www/faq.php:237
+msgid ""
+"Les cycles de lumière sont configurés de la manière suivante : deux "
+"paramètres doivent être configurés, le premier permet de fixer le cycle "
+"jour / nuit (D / N). Pour celui-ci, vous avez deux possibilités : le cycle "
+"de jour court (D / N : 6h/18h) est généralement utilisé pour favoriser la "
+"croissance végétative des plantes (le processus de croissance ne concerne "
+"que les feuilles). En revanche, le cycle D / N : 12h/12h favorise "
+"généralement la floraison et la fructification. Enfin, le second paramètre "
+"que vous pouvez choisir est l'heure du début de la période de la journée."
+msgstr ""
+"The light cycles are configurated the following way: Two parameters are to "
+"be configured, the first one enables to fix the day/night cycle. For this "
+"one you have two possibilities: the short day cycle (D/N: 6h/18h) is "
+"generally used to favor the vegetative growth of plants (the growing process "
+"only concerns leaves); In contrast, the 12/12 day/night cycle generally "
+"promotes the flowering and fructification. Finally, the second parameter "
+"that you can choose is the start time for the day period. "
+
+#: C:\wamp\www/faq.php:240
+msgid ""
+"Je ne comprends pas à quoi sert la jauge (moisture) humidité de la plante"
+msgstr "I dont understand the gauge moisture "
+
+#: C:\wamp\www/faq.php:241 C:\wamp\www/faq.php:245
+msgid "Cliquez ici"
+msgstr "click here"
+
+#: C:\wamp\www/faq.php:241 C:\wamp\www/faq.php:245
+msgid "pour voir la documentation détaillée."
+msgstr "to see the details documentation."
+
+#: C:\wamp\www/faq.php:244
+msgid "Vous avez une erreur Err_temperature_ 1,2,3"
+msgstr "You 've got an error : Err_temperature_1,2,3"
+
+#: C:\wamp\www/faq.php:247
+msgid "http://blog.votre-secret-garden.fr/fr/forum"
+msgstr "http://blog.votre-secret-garden.fr/en/forum"
+
+#: C:\wamp\www/faq.php:247
+msgid ""
+"Vous n'avez pas trouvé la réponse à votre question allez voir sur le forum"
+msgstr "you don't find the answer to your question ? Go on the forum."
+
+#: C:\wamp\www/faq.php:260
+msgid ""
+"FAQ ou foire aux questions est la page d'aide de Secret Garden vous y "
+"trouverais un ensemble de questions réponse en rapport avec toutes les "
+"fonctionnalités que le secret garden a. Si n'avez pas trouvez la réponse à "
+"votre question n'hésitez pas à m'envoyer un mail."
+msgstr ""
+"FAQ, i.e. Frequently Asked Questions is the help section of Secret Garden. "
+"You will find here a set of Q & A related to all the functionnalities of SG. "
+"If you don't find answer of your question, feel free to send it to me by "
+"email."
+
+#: C:\wamp\www/index.php:96
+msgid "dans "
+msgstr "in"
+
+#: C:\wamp\www/index.php:100
+msgid "il y a "
+msgstr " "
+
+#: C:\wamp\www/index.php:112
+msgid " an"
+msgstr " year"
+
+#: C:\wamp\www/index.php:113 C:\wamp\www/index.php:118
+msgid " et demi"
+msgstr " and half"
+
+#: C:\wamp\www/index.php:117
+msgid " mois"
+msgstr " month "
+
+#: C:\wamp\www/index.php:122
+msgid " jour"
+msgstr " day"
+
+#: C:\wamp\www/index.php:126
+msgid " heure"
+msgstr " hour"
+
+#: C:\wamp\www/index.php:130
+msgid " minute"
+msgstr " minute"
+
+#: C:\wamp\www/index.php:134
+msgid " quelques secondes"
+msgstr " few seconds"
+
+#: C:\wamp\www/index.php:217
+msgid "Créer un compte"
+msgstr "Register"
+
+#: C:\wamp\www/index.php:219
+msgid ""
+"<li><a href='moniteur.php'><span class='fa fa-leaf'></span> Votre jardin</"
+"a></li>"
+msgstr ""
+"<li><a href='moniteur.php'><span class='fa fa-leaf'></span> Your garden</a></"
+"li>"
+
+#: C:\wamp\www/index.php:222
+msgid ""
+"<li><a href='login.php'><span class='fa fa-user'></span> Se connecter</a></"
+"li>"
+msgstr ""
+"<li><a href='login.php'><span class='fa fa-user'></span> Login</a></li>"
+
+#: C:\wamp\www/index.php:243
+msgid "Bienvenue sur Secret Garden !"
+msgstr "Welcome to Secret Garden"
+
+#: C:\wamp\www/index.php:244
+msgid "Le Web-moniteur de votre jardin."
+msgstr "the web monitor of your garden."
+
+#: C:\wamp\www/index.php:263
+msgid "C'est quoi ?"
+msgstr "what is it ?"
+
+#: C:\wamp\www/index.php:265
+msgid ""
+"Secret Garden vous permet de collecter et d'afficher toutes les données "
+"liées à votre jardin. Il vous permet aussi de le piloter grâce à une simple "
+"interface."
+msgstr ""
+"Secret Garden enables you to collect and display all the data related to "
+"your garden.  It is also a convenient tool to pilot it by means of a user "
+"friendly interface."
+
+#: C:\wamp\www/index.php:272
+msgid "Rapide"
+msgstr "Fast"
+
+#: C:\wamp\www/index.php:274
+msgid ""
+"Vous n'avez qu'à connecter la carte à internet et elle se chargera de tout "
+"le reste."
+msgstr ""
+"You have just to connect the card to the Internet and Secret Garden will do "
+"the rest"
+
+#: C:\wamp\www/index.php:281
+msgid "Ouvert"
+msgstr "Open"
+
+#: C:\wamp\www/index.php:283
+msgid ""
+"Secret Garden est Open source et Open hardware puisqu'il s'appuie sur des "
+"cartes Arduino (Yùn). Vous pouvez donc trouver tous les codes sources sur le "
+"blog."
+msgstr ""
+"Secret Garden is an Open source and an Open hardware as it is based on "
+"Arduino cards (Yùn). So, you can find all source codes and schematics on the "
+"blog."
+
+#: C:\wamp\www/index.php:290
+msgid "Ca Commence ici"
+msgstr "it starts here "
+
+#: C:\wamp\www/index.php:291
+msgid "en savoir plus"
+msgstr "learn more"
+
+#: C:\wamp\www/index.php:310
+msgid "Que peut il faire ?"
+msgstr "what it can do ?"
+
+#: C:\wamp\www/index.php:318
+msgid "Visualiser les constantes de votre jardin"
+msgstr "Viewing of the constants of your garden "
+
+#: C:\wamp\www/index.php:320
+msgid ""
+"Vous pouvez d'un simple coup d'oeil contrôler la température, l'humidité et "
+"bien d'autres paramètres grâce à des cadrans instinctifs."
+msgstr ""
+"At a glance, you can check temperature, humidity and lots of more parameters "
+"by means of intuitive dials"
+
+#: C:\wamp\www/index.php:322 C:\wamp\www/index.php:334
+#: C:\wamp\www/index.php:346 C:\wamp\www/index.php:360
+#: C:\wamp\www/index.php:372 C:\wamp\www/index.php:384
+msgid "Essayez le"
+msgstr "Try it"
+
+#: C:\wamp\www/index.php:330
+msgid "Contrôler et ajuster les cycles lumineux et l'arrosage"
+msgstr "Check and adjust light and the watering cycles"
+
+#: C:\wamp\www/index.php:332
+msgid ""
+"Vous pouvez à tout moment modifier ou ajuster les cycles pour que vos "
+"plantes grandissent dans les meilleures conditions."
+msgstr ""
+"Whenever you want, you can adjust cycles, to give your plants the best "
+"conditions of growing "
+
+#: C:\wamp\www/index.php:342
+msgid "Visualiser l'ensemble des données sous forme de différents graphiques"
+msgstr "Have a look at the whole data in a set of graphs"
+
+#: C:\wamp\www/index.php:344
+msgid ""
+"Grâce à une palette de graphiques vous pourrez visualiser toutes les données "
+"collectées par votre carte."
+msgstr ""
+"Owing to a set of graphs, you can visualize all the data your card has "
+"collected"
+
+#: C:\wamp\www/index.php:356
+msgid "Rapport journalier sur Twitter"
+msgstr "Daily report on Twitter"
+
+#: C:\wamp\www/index.php:358
+msgid ""
+"Tous les jours, vous serez tenu au courant de l'état de santé de votre "
+"jardin."
+msgstr ""
+"Everyday, you will be kept informed on the health status of your garden "
+
+#: C:\wamp\www/index.php:368
+msgid "Un jardin sécurisé"
+msgstr "A secure garden "
+
+#: C:\wamp\www/index.php:370
+msgid ""
+"Grâce à Secret Garden vous serez prévenu(e) en temps réel si un problème "
+"survient dans votre jardin lequel basculera alors instantanément en mode "
+"sécurisé."
+msgstr ""
+"Secret Garden will alert you, in real time, whether a trouble occurs in your "
+"garden that will be immediately switched to secure mode. "
+
+#: C:\wamp\www/index.php:380
+msgid "Secret Garden sur Mobile"
+msgstr "Secret Garden on your smarthphone"
+
+#: C:\wamp\www/index.php:382
+msgid ""
+"Gràce à un design adaptatif Secret Garden est également disponible au format "
+"mobile et tablette."
+msgstr ""
+"The responsive design of Secret Garden, enables it being also available on "
+"smartphones and touchpads."
+
+#: C:\wamp\www/index.php:400
+msgid "http://blog.votre-secret-garden.fr/fr/"
+msgstr "http://blog.votre-secret-garden.fr/en/"
+
+#: C:\wamp\www/index.php:400
+msgid "le Blog"
+msgstr "Blog"
+
+#: C:\wamp\www/index.php:406 C:\wamp\www/index.php:408
+#: C:\wamp\www/index.php:413
+msgid ""
+"http://blog.votre-secret-garden.fr/fr/article/diy-tutoriel-dinstallation-et-"
+"de-configuration-de-la-carte-de-pilotage"
+msgstr ""
+"http://blog.votre-secret-garden.fr/en/article/diy-setting-and-configuration-"
+"tutorial-secret-gardens-remote-control"
+
+#: C:\wamp\www/index.php:408
+msgid ""
+"DIY : Tutoriel d'installation et de configuration de la carte de pilotage"
+msgstr ""
+"DIY : Setting and configuration tutorial of the Secret Garden's control board"
+
+#: C:\wamp\www/index.php:409 C:\wamp\www/index.php:422
+msgid "Mis en ligne "
+msgstr "posted"
+
+#: C:\wamp\www/index.php:409 C:\wamp\www/index.php:422
+msgid ","
+msgstr " ago"
+
+#: C:\wamp\www/index.php:411
+msgid ""
+"Bonjour à tous ! Dans ce tutoriel nous allons voir ensemble comment "
+"assembler et programmer de A à Z la carte qui permettra à Secret Garden de "
+"piloter votre jardin."
+msgstr ""
+"Hi everybody ! In this tutorial i will show you how to set and configure the "
+"Secret Garden's remote control."
+
+#: C:\wamp\www/index.php:413 C:\wamp\www/index.php:426
+msgid "lire la suite"
+msgstr "read more"
+
+#: C:\wamp\www/index.php:419 C:\wamp\www/index.php:421
+#: C:\wamp\www/index.php:426
+msgid ""
+"http://blog.votre-secret-garden.fr/fr/article/diy-creer-une-lampe-led-pour-"
+"bouture"
+msgstr "http://blog.votre-secret-garden.fr/en/article/diy-make-led-grow-light"
+
+#: C:\wamp\www/index.php:421
+msgid "DIY : Créer une lampe LED pour la germination"
+msgstr "DIY : make a LED grow light "
+
+#: C:\wamp\www/index.php:424
+msgid ""
+"Bonjour à tous ! Cette fois ci nous allons fabriquer une lampe LED horticole "
+"pour votre jardin ."
+msgstr ""
+"hi everybody ! this time i will show you how to make a LED growlight for "
+"your garden."
+
+#: C:\wamp\www/index.php:455
+msgid ""
+"Vous avez sûrement remarqué que Secret Garden a évolué. Il est maintenant "
+"compatible avec tous les smartphones et les tablettes."
+msgstr ""
+"You surely noticed that Secret garden has evolved. It is now compatible with "
+"all smartphones and touchpads"
+
+#: C:\wamp\www/index.php:476
+msgid ""
+"Secret Garden est né du cerveau d'une personne qui voulait allier ses deux "
+"passions : les <span itemprop='applicationCategory'>nouvelles technologies</"
+"span> et la <span itemprop='applicationCategory'>culture des plantes</span>. "
+"Secret Garden est donc le fruit du mélange des techniques de culture des "
+"plantes (gestion de l'éclairage, de l'arrosage etc...) et de la connaissance "
+"en programmation Web et C/C++."
+msgstr ""
+"Secret Garden arose from the brain of someone who wanted to combine his two "
+"passions, the <span itemprop='applicationCategory'>new technologies</span> "
+"and <span itemprop='applicationCategory'>gardening</span>. Secret Garden is "
+"so the result of mixing of the technics of plant growing  (the management of "
+"light and watering etc...) and knowledge of the web programming and C/C++"
+
+#: C:\wamp\www/info.php:8
+msgid "info"
+msgstr "info"
+
+#: C:\wamp\www/info.php:15
+msgid "Vous ne savez ce que représente l'humidité de la plante ou moisture ?"
+msgstr "You don't know what is moisture ?"
+
+#: C:\wamp\www/info.php:17
+msgid ""
+"L'humidité de la plante représente en fait l'humidité dans le pot de l'une "
+"de vos plantes. <br />\n"
+"\n"
+"Ce chiffre évolue selon une échelle sans unité 0 à 1000 et la barre ci-"
+"dessous vous permettra de vous y retrouver."
+msgstr ""
+"The plant moisture is actually the humidity in the pot of one of your plants "
+"where the humidity sensor is placed. <br />\n"
+"  It's a scale of unitless values. from 0 to 1000 and the bar below will "
+"help orient yourself. "
+
+#: C:\wamp\www/info.php:20
+msgid "images/echelle.png"
+msgstr "images/echelle_en.png"
+
+#: C:\wamp\www/inscription.php:107 C:\wamp\www/inscription.php:371
+msgid "Inscription"
+msgstr "Registration"
+
+#: C:\wamp\www/inscription.php:181
+msgid ""
+"Inscription finie, vous allez recevoir un mail avec vos identifiants ainsi "
+"qu'un lien de validation. Veuillez vérifier vos mails afin de pouvoir "
+"authentifier votre compte merci."
+msgstr ""
+"Once your registration is completed, you will be receiving an email with "
+"your login/password and a link for validation. Check your mails to validate "
+"your account, Thanks."
+
+#: C:\wamp\www/inscription.php:183
+msgid "Secret Garden - Email de confirmation"
+msgstr "Secret Garden - Confirmation mail"
+
+#: C:\wamp\www/inscription.php:193
+msgid "email déja utilisé !"
+msgstr "Email already used"
+
+#: C:\wamp\www/inscription.php:198
+msgid "pseudo déja utilisé !"
+msgstr "this pseudo is already used !"
+
+#: C:\wamp\www/inscription.php:203
+msgid "le captcha n'est pas bon"
+msgstr "this captcha is'nt good"
+
+#: C:\wamp\www/inscription.php:221 C:\wamp\www/oublier.php:187
+msgid "L'adresse mail fournit n'est pas valide."
+msgstr "mail address is'nt valid."
+
+#: C:\wamp\www/inscription.php:240 C:\wamp\www/votrecompte.php:296
+msgid "Les deux mots de passe ne sont pas identiques."
+msgstr "both password are not the same"
+
+#: C:\wamp\www/inscription.php:254
+msgid "Votre compte Twitter doit commencez par @"
+msgstr "Your Twitter account must begin by @"
+
+#: C:\wamp\www/inscription.php:263
+msgid "Ce champ doit avoir entre 3 et 24 caractères"
+msgstr "this field must have beween 3 and 14 characters"
+
+#: C:\wamp\www/inscription.php:298
+msgid "Veuillez remplir tous les champs requis"
+msgstr "please fill the require field"
+
+#: C:\wamp\www/inscription.php:353
+msgid "Créez votre compte Secret Garden gratuitement."
+msgstr "Create a new account on Secret Garden for free."
+
+#: C:\wamp\www/inscription.php:354
+msgid "et dès à présent contrôlez votre jardin."
+msgstr "and now pilot your garden."
+
+#: C:\wamp\www/inscription.php:358
+msgid "Informations personnelles :"
+msgstr "Detailed info : "
+
+#: C:\wamp\www/inscription.php:365
+msgid "mot de passe* :"
+msgstr "Password * :"
+
+#: C:\wamp\www/inscription.php:366
+msgid "Confirmation de mot de passe* :"
+msgstr "password confirmation* :"
+
+#: C:\wamp\www/inscription.php:368
+msgid "Code de sécurité (captcha)* :"
+msgstr "Security Code (captcha)* :"
+
+#: C:\wamp\www/inscription.php:369
+msgid "* champ obligatoire"
+msgstr "* required field"
+
+#: C:\wamp\www/login.php:92
+msgid "Vous avez atteint le nombre de tentative maximale revenez demain"
+msgstr "you reached the number of try comeback tomorrow"
+
+#: C:\wamp\www/login.php:93 C:\wamp\www/login.php:292
+msgid "mot de passe oublié ?"
+msgstr "Forgotten password ?"
+
+#: C:\wamp\www/login.php:118 C:\wamp\www/login.php:154
+msgid "Ce login/mot de passe n'existe pas"
+msgstr "this login/password doesn't exist"
+
+#: C:\wamp\www/login.php:190
+msgid "Vous n'avez pas encore confirmé votre compte allez voir dans vos mails."
+msgstr "your account is not valid yet go see your mail and come back after."
+
+#: C:\wamp\www/login.php:203
+msgid "Connexion SG"
+msgstr "Log in SG"
+
+#: C:\wamp\www/login.php:261
+msgid "Connectez vous à votre"
+msgstr "Log in to your"
+
+#: C:\wamp\www/login.php:264
+msgid "Désolé, seulement pour les tout derniers navigateurs"
+msgstr "Sorry only for last browser"
+
+#: C:\wamp\www/login.php:278
+msgid "Connectez-vous"
+msgstr "Login"
+
+#: C:\wamp\www/login.php:280
+msgid "Nom d'utilisateur ou email"
+msgstr "Username or email"
+
+#: C:\wamp\www/login.php:284
+msgid "Mot de passe"
+msgstr "Password"
+
+#: C:\wamp\www/login.php:290
+msgid "vous n'avez pas encore de compte ? Enregistrez-vous ici."
+msgstr "No account yet ? Register here"
+
+#: C:\wamp\www/mention_legal.php:153
+msgid "Mentions Légales :"
+msgstr "Imprint :"
+
+#: C:\wamp\www/merci.php:88
+msgid "Merci"
+msgstr "thank you"
+
+#: C:\wamp\www/merci.php:152
+msgid "Merci votre donation a bien était reçu. "
+msgstr "thank you your donation have been well received."
+
+#: C:\wamp\www/merci.php:154
+msgid ""
+"Secret Garden vous remercie de cette donation vous faites maintenant partie "
+"du cercle des généreux donateurs et à ce titre vous serez informez de toutes "
+"les évolutions que vos donations auront permis."
+msgstr ""
+"Secret Garden thank you for the donation ​​now you be a  part of the circle of "
+"generous donor and as this title, you will notified all the evolutions that "
+"your donation will permit."
+
+#: C:\wamp\www/merci.php:155
+msgid "Sachez aussi que pour chaque donation, vous recevrez un petit cadeau !"
+msgstr "Also note that for every donation, you will receive a small gift !"
+
+#: C:\wamp\www/moniteur.php:101
+msgid "Moniteur"
+msgstr "Dashboard"
+
+#: C:\wamp\www/moniteur.php:480
+msgid "Carte connectée."
+msgstr "board online"
+
+#: C:\wamp\www/moniteur.php:483
+msgid "Carte déconnectée."
+msgstr "board offline"
+
+#: C:\wamp\www/moniteur.php:488
+msgid "Tout est ok"
+msgstr "everything works fine"
+
+#: C:\wamp\www/moniteur.php:556
+msgid "Votre Jardin"
+msgstr "Your Garden"
+
+#: C:\wamp\www/moniteur.php:557
+msgid "en live"
+msgstr "Live"
+
+#: C:\wamp\www/moniteur.php:564
+msgid "Température ambiante :"
+msgstr "Ambiant Temperature :"
+
+#: C:\wamp\www/moniteur.php:572
+msgid "Humidité ambiante :"
+msgstr "Ambient humidity :"
+
+#: C:\wamp\www/moniteur.php:580
+msgid "Humidité du terreau de la plante (moisture) :"
+msgstr "Moisture (Humidity of the soil)"
+
+#: C:\wamp\www/moniteur.php:588
+msgid "pH de l'eau :"
+msgstr "water pH :"
+
+#: C:\wamp\www/moniteur.php:596 C:\wamp\www/moniteur.php:646
+#: C:\wamp\www/statistique.php:1366
+msgid ""
+"Photosynthetic Photon Flux Density : <br/> représente la quantité de lumière "
+"(le nombre de photons) qui est utile pour la photosynthèse.<br/> Pour plus "
+"d'info consultez la FAQ"
+msgstr ""
+"Photosynthetic Photon Flux Density :<br /> is a unit of measure to express "
+"the light quantum in photons of solar energy (specific to wavelength)<br /"
+">related specifically to photosynthesis in units called micro-moles."
+
+#: C:\wamp\www/moniteur.php:603
+msgid "Dernière synchronisation :"
+msgstr "Last sync :"
+
+#: C:\wamp\www/moniteur.php:609
+msgid "Statut de la carte :"
+msgstr "Status :"
+
+#: C:\wamp\www/moniteur.php:615
+msgid "Problème ? :"
+msgstr "a problem ? :"
+
+#: C:\wamp\www/moniteur.php:618
+msgid "Rafraîchir"
+msgstr "refresh"
+
+#: C:\wamp\www/moniteur.php:631
+msgid "Bienvenue"
+msgstr "Welcome"
+
+#: C:\wamp\www/moniteur.php:633
+msgid ""
+"Bienvenue sur la page d'accueil de Votre jardin ! Vous allez pouvoir ici "
+"contrôler toutes les constantes de votre jardin. Si vous avez des questions "
+"n'hésitez pas à consulter la FAQ."
+msgstr ""
+"Welcome to the dashboard of your garden! You're going to be able to control "
+"the whole constants of your garden. Any questions ? do not hesitate to "
+"consult the FAQ section "
+
+#: C:\wamp\www/moniteur.php:638
+msgid "Configuration des jauges"
+msgstr " gauges setting"
+
+#: C:\wamp\www/moniteur.php:640
+msgid ""
+"Dans ce menu, vous pouvez sélectionner les jauges que vous voulez voir ou ne "
+"pas voir."
+msgstr "In this menu you can select which gauges you want to see."
+
+#: C:\wamp\www/moniteur.php:642
+msgid "jauge de température"
+msgstr "temperature gauge"
+
+#: C:\wamp\www/moniteur.php:643
+msgid "jauge d' humidité"
+msgstr "humidity gauge"
+
+#: C:\wamp\www/moniteur.php:644
+msgid "jauge de moisture"
+msgstr "moisture gauge"
+
+#: C:\wamp\www/moniteur.php:645
+msgid "jauge pH"
+msgstr "pH gauge"
+
+#: C:\wamp\www/moniteur.php:646
+msgid "jauge PPFD"
+msgstr "PPFD gauge"
+
+#: C:\wamp\www/oublier.php:98
+msgid "vous avez oublier votre mot de passe ?"
+msgstr "did you forget your password ?"
+
+#: C:\wamp\www/oublier.php:157
+msgid ""
+"E-mail et pseudo vérifier, nous allons vous envoyé par mail votre nouveau "
+"mot de passe"
+msgstr ""
+"Email and pseudo validated; We will be sending your new password by email"
+
+#: C:\wamp\www/oublier.php:159
+msgid "Secret Garden - Nouveau mot de passe"
+msgstr "Secret Garden - New password"
+
+#: C:\wamp\www/oublier.php:167
+msgid "ce pseudo/email n'existe pas."
+msgstr "this login/email doesn't exist"
+
+#: C:\wamp\www/oublier.php:263
+msgid "Vous avez oublié votre mot de passe ?"
+msgstr "did you forget your password ?"
+
+#: C:\wamp\www/oublier.php:264
+msgid "pas de panique nous allons vous en attribuer un nouveau."
+msgstr "Don't panic you will got another password"
+
+#: C:\wamp\www/oublier.php:266
+msgid "Voici comment remédier à cette situation."
+msgstr "Here's how to remedy this situation."
+
+#: C:\wamp\www/oublier.php:267
+msgid ""
+"Saisissez votre adresse e-mail ainsi que votre pseudo et nous vous "
+"attribuerons un nouveau mot de passe qui vous sera envoyé par mail."
+msgstr ""
+"Enter your email address and your pseudo and we will be assigning you a new "
+"password that will be sent you by email"
+
+#: C:\wamp\www/oublier.php:269
+msgid "Pseudo"
+msgstr "Pseudo"
+
+#: C:\wamp\www/oublier.php:270 C:\wamp\www/votrecompte.php:404
+msgid "Email "
+msgstr "Email"
+
+#: C:\wamp\www/oublier.php:271
+msgid "Continuer"
+msgstr "Continue"
+
+#: C:\wamp\www/pb.php:8
+msgid "pb"
+msgstr "issue"
+
+#: C:\wamp\www/pb.php:20
+msgid "Problème Capteur ?"
+msgstr "sensor problem"
+
+#: C:\wamp\www/pb.php:22
+msgid ""
+"Lorsque vous voyez une erreur du type 'err_temperature_x' <br /> Cela veut "
+"dire que votre capteur de température est en panne. <br /> Il y a plusieurs "
+"types de panne. <br />\n"
+"On peut identifier la panne grâce par son numéro 1,2 ou 3.<br />\n"
+"Si vous obtenez : <br /> DHTLIB_ERROR_CHECKSUM <br /> Cela veut dire que les "
+"données envoyées par votre capteur sont incompréhensibles, vérifiez le "
+"câblage. <br /> Vous l'avez peut-être câblé à l'envers. <br />\n"
+"DHTLIB_ERROR_TIMEOUT <br /> Cela veut dire que le laps de temps entre le "
+"moment où votre carte demande la température et le moment ou le capteur lui "
+"a répondu (ou pas.. visiblement ;-) ) est trop long. <br />\n"
+"Ce n'est pas trop grave si cette erreur ne demeure pas. <br /> Par contre si "
+"l'erreur persiste vérifiez la connexion entre le capteur et la carte. <br /"
+">\n"
+"DHTLIB_ERROR_UNKNOWN <br /> Ce code erreur englobe tous les autres types "
+"d'erreurs qui ne sont pas recensés dans les deux premières.<br />\n"
+"C'est généralement très mauvais signe pour votre capteur. RIP "
+msgstr ""
+"When the error message  'err_temperature_x' <br /> \n"
+"\t appears, this means that your temperature sensor is out of order.<br /> \n"
+"\t there are several types of failure.<br />\n"
+"\t It is possible to identify the failure type according to its "
+"identification number '1,2,3'<br />\n"
+"\tIf you get:<br />\n"
+"\t<h3>err_temperature_1</h3>\n"
+"\tDHTLIB_ERROR_CHECKSUM <br /> \n"
+"\tthat means that data sent to your sensor are incomprehensible, check your "
+"wiring.<br />You may have mounted it upside down.\n"
+"\t<h3>err_temperature_2</h3>\n"
+"\tDHTLIB_ERROR_TIMEOUT <br /> \n"
+"\tThis means that the time your card asks for the temperature until the "
+"sensor answers it (or has not answered at all ;-)), is too long<br /> \n"
+"\tIt is not a problem if this error doesn't last.<br /> \n"
+"\tOn the contrary, if the error lasts, check the connection between the "
+"sensor and the control card.\n"
+"\t<h3>err_temperature_3</h3>\n"
+"\tDHTLIB_ERROR_UNKNOWN<br />\n"
+"\tThis error code includes all types of errors excluding the two mentionned "
+"above<br /> \n"
+"\t.That is a very bothersome indication for your sensor. RIP"
+
+#: C:\wamp\www/reglage.php:105
+msgid "Réglage"
+msgstr "Settings"
+
+#: C:\wamp\www/reglage.php:281 C:\wamp\www/reglage.php:494
+msgid "maximal"
+msgstr "maximum"
+
+#: C:\wamp\www/reglage.php:284 C:\wamp\www/reglage.php:493
+msgid "recommandé"
+msgstr "recommended"
+
+#: C:\wamp\www/reglage.php:287 C:\wamp\www/reglage.php:492
+msgid "desactivé"
+msgstr "disable"
+
+#: C:\wamp\www/reglage.php:368
+msgid "Programmation des cycles de mise en route :"
+msgstr "Programming of the switching cycles :"
+
+#: C:\wamp\www/reglage.php:369
+msgid "eau/lumière"
+msgstr "Water/Light"
+
+#: C:\wamp\www/reglage.php:374
+msgid "Configuration actuelle"
+msgstr "Current configuration"
+
+#: C:\wamp\www/reglage.php:377
+msgid "Lumière :"
+msgstr "Light : "
+
+#: C:\wamp\www/reglage.php:379
+msgid "6h/18h"
+msgstr "6h/18h"
+
+#: C:\wamp\www/reglage.php:381
+msgid "12h/12h"
+msgstr "12h/12h"
+
+#: C:\wamp\www/reglage.php:382
+msgid "Cycle jour/nuit :"
+msgstr "Day/night cycle :"
+
+#: C:\wamp\www/reglage.php:423 C:\wamp\www/reglage.php:488
+msgid "Départ cycle :"
+msgstr "Cycle start :"
+
+#: C:\wamp\www/reglage.php:424 C:\wamp\www/reglage.php:489
+msgid "Fin cycle :"
+msgstr "Cycle stop :"
+
+#: C:\wamp\www/reglage.php:425
+msgid "Eau :"
+msgstr "Water :"
+
+#: C:\wamp\www/reglage.php:447
+msgid "Durée de l'arrosage :"
+msgstr "watering duration :"
+
+#: C:\wamp\www/reglage.php:490
+msgid "Sécurité :"
+msgstr "Security :"
+
+#: C:\wamp\www/reglage.php:496
+msgid "niveau de sécurité :"
+msgstr "Security Level : "
+
+#: C:\wamp\www/reglage.php:497
+msgid "modifier"
+msgstr "modify"
+
+#: C:\wamp\www/reglage.php:509
+msgid "Panneau de contrôle"
+msgstr "Control panel"
+
+#: C:\wamp\www/reglage.php:511
+msgid ""
+"Voici votre panneau de contrôle ! C'est depuis ce menu que vous pouvez "
+"vérifier et modifier les cycles lumineux et l'arrosage. Vous pouvez aussi "
+"configurer le niveau de sécurité. Pour plus d'infos n'hésitez pas à aller "
+"sur la FAQ."
+msgstr ""
+"Here is your control panel ! From this menu, you can check and modify the "
+"cycles of light and watering. You can also configure the security level. "
+"More infos? go to the FAQ section"
+
+#: C:\wamp\www/statistique.php:199
+msgid "êtes vous vraiment sûr de vouloir supprimer toutes vos données"
+msgstr "Are you sure you want to erase all your data"
+
+#: C:\wamp\www/statistique.php:405
+msgid "Vue d'ensemble"
+msgstr "Overview"
+
+#: C:\wamp\www/statistique.php:406 C:\wamp\www/statistique.php:1346
+msgid "Graphiques"
+msgstr "Graphes"
+
+#: C:\wamp\www/statistique.php:418
+msgid "Effacer les données"
+msgstr "Erases all your data"
+
+#: C:\wamp\www/statistique.php:750
+msgid "Température ambiante (°C)"
+msgstr "Ambiant Temperature  (°C)"
+
+#: C:\wamp\www/statistique.php:818
+msgid "humidité ambiante (%)"
+msgstr "Ambient humidity (%)"
+
+#: C:\wamp\www/statistique.php:888
+msgid "moisture ()"
+msgstr "moisture ()"
+
+#: C:\wamp\www/statistique.php:1025 C:\wamp\www/statistique.php:1301
+msgid "Luminosité 'ppfd' (µmol/m².s)"
+msgstr "Luminosity 'ppfd' (µmol/m².s)"
+
+#: C:\wamp\www/statistique.php:1106
+msgid "Température (ºC)"
+msgstr "Temperature (ºC)"
+
+#: C:\wamp\www/statistique.php:1155
+msgid "Humidité (%)"
+msgstr "humidity (%)"
+
+#: C:\wamp\www/statistique.php:1203
+msgid "Moisture (_)"
+msgstr "Moisture (_)"
+
+#: C:\wamp\www/statistique.php:1252
+msgid "pH (_) "
+msgstr "pH (_) "
+
+#: C:\wamp\www/statistique.php:1348
+msgid ""
+"C'est ici que vous pouvez visualiser toutes vos données recueillies depuis "
+"que vous avez connecté votre jardin. Pour plus d'infos ... Dans la FAQ "
+"aller, il te faudra ;-) ."
+msgstr ""
+"Here you can visualize all the data collected since you have connected your "
+"garden. For more info, to the FAQ section, go ;-)"
+
+#: C:\wamp\www/statistique.php:1353
+msgid "Configuration des graphiques"
+msgstr " Graphe settings"
+
+#: C:\wamp\www/statistique.php:1355
+msgid ""
+"Dans ce menu, vous pouvez sélectionner les graphiques que vous voulez voir "
+"ou ne pas voir."
+msgstr "In this menu you can select which kind of graphic you want to see"
+
+#: C:\wamp\www/statistique.php:1358
+msgid "aire"
+msgstr "Area"
+
+#: C:\wamp\www/statistique.php:1359
+msgid "ligne"
+msgstr "line"
+
+#: C:\wamp\www/statistique.php:1362
+msgid "graphique de température"
+msgstr "temperature graphe"
+
+#: C:\wamp\www/statistique.php:1363
+msgid "graphique d' humidité"
+msgstr "humidity graphe"
+
+#: C:\wamp\www/statistique.php:1364
+msgid ""
+"Humidité de la plante ou moisture : <br/> Représente le taux d'humidité de "
+"la terre dans laquelle poussent vos plantes. <br/> Pour plus d'info "
+"consultez la FAQ"
+msgstr "Humidity of the soil "
+
+#: C:\wamp\www/statistique.php:1364
+msgid "graphique de moisture"
+msgstr "moisture graphe"
+
+#: C:\wamp\www/statistique.php:1365
+msgid "graphique pH"
+msgstr "pH graphe"
+
+#: C:\wamp\www/statistique.php:1366
+msgid "graphique PPFD"
+msgstr "ppfd graphe"
+
+#: C:\wamp\www/tweet.php:13
+msgid "La chaine à tweeter est vide."
+msgstr "the tweeter string is empty"
+
+#: C:\wamp\www/tweet.php:101
+msgid "Rapport du "
+msgstr "Report of"
+
+#: C:\wamp\www/tweet.php:105
+msgid "pas de rapport pour cette date "
+msgstr "there is no report for this date"
+
+#: C:\wamp\www/tweet.php:110
+msgid "Le tweet a bien été envoyé !"
+msgstr "the tweet was sent !"
+
+#: C:\wamp\www/tweet.php:112
+msgid "Une erreur s'est produite."
+msgstr "A mistake happened."
+
+#: C:\wamp\www/tweet.php:116
+msgid "Cette clé n'est liée à aucun compte  "
+msgstr "this key has no link to a existing account"
+
+#: C:\wamp\www/verification.php:88
+msgid "Vérification"
+msgstr "Verification"
+
+#: C:\wamp\www/verification.php:187
+msgid "Bienvenue sur Secret Garden et félicitations !"
+msgstr "Welcome on Secret Garden and congratulation !"
+
+#: C:\wamp\www/verification.php:188
+msgid "validation de votre compte."
+msgstr "validation of your account"
+
+#: C:\wamp\www/verification.php:190
+msgid "E-mail validé, vous allez être redirigé vers la page de connexion."
+msgstr "email validated you will be redirected"
+
+#: C:\wamp\www/verification.php:191
+msgid "Ps : nous sommes ravis que vous soyez un humain ;-)"
+msgstr "PS : we are very happy to notify you you're an human being ;-)"
+
+#: C:\wamp\www/verification.php:192
+msgid "Vous allez être redirigé vers la page de connexion."
+msgstr "you will be redirected on the login page. "
+
+#: C:\wamp\www/votrecompte.php:120 C:\wamp\www/votrecompte.php:393
+#: C:\wamp\www/votrecompte.php:425
+msgid "Mon compte"
+msgstr "My account"
+
+#: C:\wamp\www/votrecompte.php:180
+msgid ""
+"Veuillez d'abord configurer les cycles lumineux et d'arrosage dans la page "
+"réglage."
+msgstr ""
+"Please first configure the light cycles and watering in the setting page."
+
+#: C:\wamp\www/votrecompte.php:277
+msgid "l'adresse mail fournis n'est pas valide."
+msgstr "mail address is'nt valid."
+
+#: C:\wamp\www/votrecompte.php:310
+msgid "votre compte Twitter doit commencez par @"
+msgstr "Your Twitter account must begin by @"
+
+#: C:\wamp\www/votrecompte.php:394
+msgid "Mes informations"
+msgstr "my personal data"
+
+#: C:\wamp\www/votrecompte.php:398
+msgid "Informations personnelles"
+msgstr "Detailed info"
+
+#: C:\wamp\www/votrecompte.php:401
+msgid "Pseudo "
+msgstr "Pseudo"
+
+#: C:\wamp\www/votrecompte.php:402
+msgid "Clé arduino "
+msgstr "Arduino key"
+
+#: C:\wamp\www/votrecompte.php:403
+msgid "Clé prowl"
+msgstr "Prowl key"
+
+#: C:\wamp\www/votrecompte.php:405
+msgid "Twitter "
+msgstr "Twitter"
+
+#: C:\wamp\www/votrecompte.php:407
+msgid "Rapport twitter desactivé"
+msgstr "Twitter report off"
+
+#: C:\wamp\www/votrecompte.php:409
+msgid "Rapport twitter activé"
+msgstr "Twitter report on"
+
+#: C:\wamp\www/votrecompte.php:410
+msgid "Nouveau mot de passe"
+msgstr "New password"
+
+#: C:\wamp\www/votrecompte.php:411
+msgid "Confirmation de mot de passe "
+msgstr "password confirmation"
+
+#: C:\wamp\www/votrecompte.php:412
+msgid "Mettre à jour votre profil"
+msgstr "Update your profile"
+
+#: C:\wamp\www/votrecompte.php:427
+msgid ""
+"Je pense que tout est dit dans le titre, vous pouvez trouver ici toutes les "
+"informations relatives à votre compte."
+msgstr ""
+"I guess all is said in the title ! You can find here the whole information "
+"related to your account"
+
+#: C:\wamp\www/js/Gettext.js:38 C:\wamp\www/js/Gettext.js:40
+#: C:\wamp\www/js/Gettext.js:43
+msgid "some string"
+msgstr "some string"
+
+#: C:\wamp\www/js/Gettext.js:74
+msgid "this will get translated"
+msgstr "this will get translated"
+
+#: C:\wamp\www/js/Gettext.js:84
+msgid "text"
+msgstr "text"
+
+#: C:\wamp\www/js/Gettext.js:694
+msgid "Hello World!\n"
+msgstr "Hello World!\n"
+
+#: C:\wamp\www/js/Gettext.js:702
+msgid "Hello "
+msgstr "hello"
+
+#: C:\wamp\www/js/Gettext.js:710
+msgid "Hello %1"
+msgstr "Hello %1"
+
+#: C:\wamp\www/js/Gettext.js:719
+msgid "This is the %1 %2"
+msgstr "This is the %1 %2"
+
+#: C:\wamp\www/js/Gettext.js:758 C:\wamp\www/js/Gettext.js:770
+#: C:\wamp\www/js/Gettext.js:790
+#, python-format
+msgid "One file deleted.\n"
+msgid_plural "%d files deleted.\n"
+msgstr[0] ""
+msgstr[1] ""
+
+#: C:\wamp\www/js/Gettext.js:760
+#, python-format
+msgid "%d files deleted.\n"
+msgstr ""
+
+#: C:\wamp\www/js/Gettext.js:1056
+msgid "one banana"
+msgid_plural "%1 bananas"
+msgstr[0] ""
+msgstr[1] ""
+
+#: C:\wamp\www/js/Gettext.js:1213 C:\wamp\www/js/Gettext.js:1227
+msgid "string"
+msgstr "String"
+
+#: C:\wamp\www/js/hopscotch.js:529
+msgid "Next"
+msgstr "Next"
+
+#: C:\wamp\www/js/hopscotch.js:530
+msgid "Back"
+msgstr "Back"
+
+#: C:\wamp\www/js/hopscotch.js:531
+msgid "Done"
+msgstr "Done"
+
+#: C:\wamp\www/js/visite.js:8
+msgid "Bienvenue sur Secret Garden"
+msgstr "Welcome on Secret Garden"
+
+#: C:\wamp\www/js/visite.js:9
+msgid ""
+"Salut ! Bienvenue sur votre moniteur. C'est depuis ce menu que vous pourrez "
+"visualiser les constantes de votre jardin et sélectionner les jauges que "
+"vous voulez."
+msgstr ""
+"Hey there! welcome on your dashboard. Here you can see the constant of your "
+"garden and select which gauges you want."
+
+#: C:\wamp\www/js/visite.js:20
+msgid "Le menu de réglage"
+msgstr "Here is the setting menu"
+
+#: C:\wamp\www/js/visite.js:21
+msgid ""
+"Sur cette page, vous pouvez modifier le cycle lumineux ainsi que le cycle "
+"d'arrosage"
+msgstr "On this page you can set and configure the light and watering cycle"
+
+#: C:\wamp\www/js/visite.js:32
+msgid "Ci-dessus, vous pouvez configurer le cycle lumineux"
+msgstr "above, you can configure the light cycle"
+
+#: C:\wamp\www/js/visite.js:37
+msgid ""
+"Ci-dessus, vous pouvez configurer le cycle d'arrosage et son heure de départ "
+msgstr ""
+"above, you can configure the watering duration and when the cycle start "
+
+#: C:\wamp\www/js/visite.js:42
+msgid ""
+"Ci-dessous, le niveau de sécurité. Il y a 3 différents états que vous pouvez "
+"configurer en fonction de vos connaissances en jardinage. Plus d'infos, "
+"allez voir la FAQ "
+msgstr ""
+"below this is the security level you can configure there is 3 different "
+"level depending on your gardening skills more info ? go to FAQ section."
+
+#: C:\wamp\www/js/visite.js:51
+msgid "Le menu des statistiques"
+msgstr "Here is the graphe menu"
+
+#: C:\wamp\www/js/visite.js:52
+msgid ""
+"Sur cette page, vous pouvez visualiser toutes les données dans diverses "
+"sortes de graphiques."
+msgstr "On this page you can visualize all the data in diverse kind of graphe"
+
+#: C:\wamp\www/js/visite.js:60
+msgid ""
+"C'est ici que vous pouvez choisir quelle sorte de graphique vous voulez "
+msgstr "it's here where you can choose what kind of graphe, you want"
+
+#: C:\wamp\www/js/visite.js:69
+msgid "Ici, vous pouvez visualiser des prévisions de votre budget"
+msgstr "Here you can simulate your budget forecast"
+
+#: C:\wamp\www/js/visite.js:70
+msgid ""
+"Sur cette page, vous avez juste à remplir les champs requis et Secret Garden "
+"vous donnera une estimation du coût électrique de votre installation"
+msgstr ""
+"here you just have to fill all require field and Secret Garden will make an "
+"estimation of your electrical cost"
+
+#: C:\wamp\www/js/visite.js:78
+msgid "Vous savez tout !"
+msgstr "you're all set !"
+
+#: C:\wamp\www/js/visite.js:79
+msgid ""
+"Maintenant, vous avez les clés du succès, il ne vous reste plus qu'à vous "
+"lancer et surtout à vous faire plaisir ! "
+msgstr ""
+"now that you have the keys of the success. he remains for you to start but "
+"most of all have Fun ! "
+
+#~ msgid ""
+#~ "Vous voulez plus de fonctionalités sur Secret Garden ou tout simplement "
+#~ "vous voulez nous soutenir et permettre à Secret Garden de rester un "
+#~ "service gratuit."
+#~ msgstr ""
+#~ "Want more functionality on Secret Garden or you simply want to support us "
+#~ "and allow Secret Garden to remain a free service."
+
+#~ msgid ""
+#~ "Nous somme très fièrs aujourd'hui de vous présenter ce nouveau site qui "
+#~ "est a mi-chemin entre un Data-loggeur et un jardinier ;-)."
+#~ msgstr ""
+#~ "We are very proud today to show you this new website which is midway "
+#~ "between a data logger and a gardener ;-)."
+
+#~ msgid "les deux mot de passe ne sont pas identique."
+#~ msgstr "both password are not the same"
+
+#~ msgid "l'adresse mail fournie n'est pas valide."
+#~ msgstr "mail address is'nt valid."
+
+#~ msgid " recommander"
+#~ msgstr "recommended"
+
+#~ msgid "desactiver"
+#~ msgstr "disable"
+
+#~ msgid ""
+#~ "humidité de la plante ou moisture :<br /> represente le taux d humidité "
+#~ "de la terre dans laquelle pousse vos plantes. <br /> Pour plus d info "
+#~ "consultez la FAQ'"
+#~ msgstr "Humidity of the soil "
+
+#~ msgid ""
+#~ "Nous somme tres fières aujourd'hui de vous presenter ce nouveau site qui "
+#~ "est à mi-chemin entre un Data-loggeur et un jardinier ;-). "
+#~ msgstr ""
+#~ "We are very proud today to show you this new website which is midway "
+#~ "between a data logger and a gardener ;-)."
+
+#~ msgid ""
+#~ "Nous somme tres fières aujourd'hui de vous presenter ce nouveau site qui "
+#~ "est a mi-chemin entre un Data-loggeur et un jardinier ;-). "
+#~ msgstr ""
+#~ "We are very proud today to show you this new website which is midway "
+#~ "between a data logger and a gardener ;-)."
+
+#~ msgid ""
+#~ "Nous somme tres fières aujourd'hui de vous presenter ce nouveau site qui "
+#~ "est a mis-chemin entre un Data-loggeur et un jardinier ;-). "
+#~ msgstr ""
+#~ "We are very proud today to show you this new website which is midway "
+#~ "between a data logger and a gardener ;-)."
+
+#~ msgid "18h/6h"
+#~ msgstr "18h/6h"
+
+#~ msgid "votre compte Twitter se doit de commencez par @"
+#~ msgstr "Your Twitter account must begin by @"
+
+#~ msgid ""
+#~ "Vous voulez plus de fonctionalité sur Secret Garden ou tout simplement "
+#~ "vous voulez nous soutenir et permètre à Secret Garden de resté un service "
+#~ "gratuis."
+#~ msgstr ""
+#~ "Want more functionality on Secret Garden or you simply want to support us "
+#~ "and allow Secret Garden to remain a free service."
+
+#~ msgid "vous avez une question ?"
+#~ msgstr "you've got a question ?"
+
+#~ msgid "En Construction"
+#~ msgstr "Work in progess "
+
+#~ msgid "Les inscription sont fermé."
+#~ msgstr "Registration are closed"
+
+#~ msgid "nous sommes desolé."
+#~ msgstr "we are sorry."
+
+#~ msgid "La clé que vous avez saisie n'existe pas !"
+#~ msgstr "the key you entered does not exist"
+
+#~ msgid "suivez le guide"
+#~ msgstr "follow the guide"
+
+#~ msgid "validation"
+#~ msgstr "validation"
+
+#, fuzzy
+#~ msgid ""
+#~ "<li><span class='fa fa-user'></span><a href='login.php'>Se connecter</a></"
+#~ "li>"
+#~ msgstr "<li><a href='login.php'>Login</a></li>"
+
+#~ msgid "-"
+#~ msgstr " ago"
+
+#~ msgid "temperature"
+#~ msgstr "temperature"
+
+#~ msgid "humidite"
+#~ msgstr "humidity"
