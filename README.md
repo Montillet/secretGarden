@@ -1,2 +1,2 @@
 # secretGarden
-internet-control greenhouse 
+internet-controled greenhouse 
